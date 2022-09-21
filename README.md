@@ -30,10 +30,12 @@ const Dani = {
  challenge: "Using artificial vision, solve a security problem in a residential area"
 }
 ```
+
+
+<!--
 <a href="https://github-readme-stats.sabesansathananthan.vercel.app/api?username=DanielaIH&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical">
 <img align="center" alt="Dani's Github Stats" src="https://github-readme-stats.sabesansathananthan.vercel.app/api?username=DanielaIH&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
 
-<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
